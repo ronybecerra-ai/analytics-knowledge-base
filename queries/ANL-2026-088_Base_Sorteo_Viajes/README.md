@@ -8,4 +8,6 @@
 
 **Responsable:** Renzo Becerra
 
+**Entregable:** base_sorteo_viajes_agosto.csv
+
 **Fecha:** 2026-09-03
