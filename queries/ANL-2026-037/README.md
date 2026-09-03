@@ -2,6 +2,8 @@
 
 **Solicitud:** Actualizar lista de productos que pueden pagar en la app en la tabla de gcp para el indicador de cobranzas.
 
+**Detalle:** Productos del ramo VIDA a agregar - Vida Ahorro Garantizado (8309), Protección Ahorro II (8820) y Vida Endosable (8151). 
+
 **Subject correo:** Solicitado por Teams
 
 **Solicitante:** Jorge Ramirez
